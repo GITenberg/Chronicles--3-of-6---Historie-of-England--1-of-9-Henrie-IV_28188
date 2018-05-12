@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5166
     wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28188#Chronicles--3-of-6---Historie-of-England--1-of-9-Henrie-IV
 gutenberg_issued: '2009-02-25'
 gutenberg_type: Text
 identifiers:
